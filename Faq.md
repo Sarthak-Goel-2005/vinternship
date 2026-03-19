@@ -21,6 +21,7 @@ order: 2
 11. [Health Points and Breakout Sessions](#11-health-points-and-breakout-sessions)
 12. [Dashboard](#12-dashboard)
 13. [IITM BS Internship](#13-iitm-bs-internship)
+14. [Projects](#14-projects)
 
 ---
 
@@ -866,5 +867,12 @@ Not always. Programs with similar names may be separate initiatives. Confirm via
 **13.20 Are there benefits like internship opportunities under mentors?**
 
 Benefits depend on performance, participation, and program structure. Official announcements clarify this.
+
+---
+
+## 14. Projects
+
+**14.1 Should we do the projects as a group or as an induvidual?**
+Depends upon the project and the feature to be built. Please reach out to the mentors of the respective projects mentioned in the website on the projects site for more clarity on the projects and their aspects.
 
 ---
